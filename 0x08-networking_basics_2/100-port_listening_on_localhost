@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# It listens on port 98 on the lh
+
+nc -l 98
